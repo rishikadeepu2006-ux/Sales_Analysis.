@@ -110,8 +110,8 @@ Activate the environment:
 .venv\Scripts\activate
 
 Install required libraries:
+pip install -r requirements.txt
 
-pip install pandas numpy matplotlib scikit-learn
 
 ---
 
@@ -140,6 +140,10 @@ python improved_visualization.py
 Run logging:
 
 python sales_logging.py
+
+Run the Streamlit dashboard:
+
+python -m streamlit run app.py
 
 ---
 
