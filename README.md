@@ -208,6 +208,22 @@ The dashboard provides:
 - Top-selling products
 - Interactive sales analysis
 
-### Live Demo
+## 11. Live Demo
 
-https://salesanalysis-kbjypmsv3gxw3guwscdgtf.streamlit.app/
+The E-Commerce Sales Analysis dashboard is available online:
+
+[Live Demo](https://salesanalysis-kbjypmsv3gxw3guwscdgtf.streamlit.app/)
+
+## 12. Screenshots
+
+### Sales Analysis Dashboard
+
+![Sales Dashboard](monthly_sales.png)
+
+### Product-wise Sales
+
+![Product-wise Sales](product_wise_sales.png)
+
+### Quantity by Product
+
+![Quantity by Product](quantity_by_product.png)
