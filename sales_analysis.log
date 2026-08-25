@@ -1,0 +1,8 @@
+2026-08-25 22:15:07,312 - INFO - Sales analysis program started
+2026-08-25 22:15:07,331 - INFO - Sales data loaded successfully
+2026-08-25 22:15:07,331 - INFO - Sales data contains 10 rows
+2026-08-25 22:15:07,338 - INFO - Date column converted successfully
+2026-08-25 22:15:07,341 - INFO - Total sales calculated successfully
+2026-08-25 22:15:07,342 - INFO - Total revenue calculated: 198600.00
+2026-08-25 22:15:07,363 - INFO - Product sales analysis completed
+2026-08-25 22:15:07,363 - INFO - Sales analysis program completed successfully
