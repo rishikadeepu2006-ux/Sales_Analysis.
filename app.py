@@ -14,7 +14,7 @@ st.write("Sales analysis dashboard with revenue, product performance and sales t
 
 # Load sales data
 try:
-    df = pd.read_csv("data/sales_data.csv")
+    df = pd.read_csv("sales_data.csv")
 
     # Convert Date column
     df["Date"] = pd.to_datetime(df["Date"])
