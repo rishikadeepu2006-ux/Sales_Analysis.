@@ -142,12 +142,12 @@ Monthly Sales
 Product-wise Sales
 
 Quantity by Product
+## 10. Live Demo
 
-10. Live Demo
+Live dashboard:
 
-Live demo link:
+[Click here to view the Sales Analysis Dashboard](https://salesanalysis-kbjypmsv3gxw3guwscdgtf.streamlit.app/)
 
-To be added after deployment.
 
 11. Testing
 
