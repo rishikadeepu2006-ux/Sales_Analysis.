@@ -193,3 +193,21 @@ Future versions of the project can include:
 The E-Commerce Sales Analysis project provides a complete system for processing, analyzing, visualizing, and forecasting sales data.
 
 The project demonstrates the use of Python, data analysis, machine learning, testing, performance optimization, and logging.
+---
+
+## 11. Live Dashboard
+
+The sales analysis project is deployed using Streamlit.
+
+The dashboard provides:
+
+- Total revenue
+- Total quantity sold
+- Product-wise sales
+- Sales trends
+- Top-selling products
+- Interactive sales analysis
+
+### Live Demo
+
+https://salesanalysis-kbjypmsv3gxw3guwscdgtf.streamlit.app/
